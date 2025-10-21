@@ -22,18 +22,19 @@ As palavras podem ser **variáveis**, quando flexionam em gênero (masculino/fem
 
 Na língua portuguesa, existem dez **classes gramaticais**, a saber:
 
-|Classe|Definição|Variável|Exemplo|Aberta/Fechada|Forma locuções|
+|Classe|Definição|Variável (Flexiona)|Aberta/Fechada|Forma locuções|Exemplo|
 |---|---|---|---|---|---|
-|**Substantivo**|Nomeia seres, coisas, sentimentos, ideias|Sim, em gênero e número|casa, felicidade, cachorro|Aberta|Sim (locução nominal)|
-|**Artigo**|Determina ou acompanha o substantivo|Sim, em gênero e número|o, a, os, as, um, uns, uma, umas|Fechada|Não|
-|**Adjetivo**|Caracteriza o substantivo|Sim, em gênero, número e grau|bonito/bonita, lindos/lindas, maior/menor|Aberta|Sim (locução adjetiva)|
-|**Numeral**|Indica quantidade, ordem ou fração|Alguns variam em gênero e número|dois/dois, primeiro/primeira|Fechada|Sim (locução numeral)|
-|**Pronome**|Substitui ou acompanha o substantivo|Sim, varia em gênero, número e caso|ele/ela, meu/minha, estes/estas|Fechada|Não|
-|**Verbo**|Indica ação, estado ou fenômeno|Sim, varia em pessoa, número, tempo, modo e voz|correr, amar, ser, estar|Aberta|Sim (locução verbal)|
-|**Advérbio**|Modifica verbo, adjetivo ou outro advérbio|Não|rapidamente, muito, aqui|Aberta|Sim (locução adverbial)|
-|**Preposição**|Liga palavras|Não|a, ante, após, até, com, contra, de, desde, entre, em, para, per, perante, trás|Fechada|Sim (locução prepositiva)|
-|**Conjunção**|Liga palavras|Não|e, mas, porque, embora|Fechada|Sim (locução conjuntiva)|
-|**Interjeição**|Expressa emoção ou reação|Não|ah!, opa!, nossa!|Fechada|Não|
+|**Substantivo**|Trata-se do nome. Nomeia seres, coisas, sentimentos, ideias|Sim, em gênero e número|Aberta|Sim (locução nominal)|casa, felicidade, cachorro|
+|**Artigo**|Determina ou acompanha o substantivo|Sim, em gênero e número|Fechada|Não|o, a, os, as, um, uns, uma, umas|
+|**Adjetivo**|Caracteriza o substantivo|Sim, em gênero, número e grau|Aberta|Sim (locução adjetiva)|bonito/bonita, lindos/lindas, maior/menor|
+|**Numeral**|Indica quantidade, ordem ou fração, ou seja, quantifica o nome|Alguns variam em gênero e número|Fechada|Sim (locução numeral)|dois/dois, primeiro/primeira|
+|**Pronome**|Substitui ou acompanha o substantivo|Sim, varia em gênero, número e caso|Fechada|Não|ele/ela, meu/minha, estes/estas|
+|**Verbo**|Indica ação, estado ou fenômeno|Sim, varia em pessoa, número, tempo, modo e voz|Aberta|Sim (locução verbal)|correr, amar, ser, estar|
+|**Advérbio**|Modifica verbo, adjetivo ou outro advérbio|Não|Aberta|Sim (locução adverbial)|rapidamente, muito, aqui|
+|**Preposição**|Liga palavras|Não|Fechada|Sim (locução prepositiva)|a, ante, após, até, com, contra, de, desde, entre, em, para, per, perante, trás|
+|**Conjunção**|Liga palavras|Não|Fechada|Sim (locução conjuntiva)|e, mas, porque, embora|
+|**Interjeição**|Expressa emoção ou reação|Não|Fechada|Não|ah!, opa!, nossa!|
+
 
 ---
 
@@ -58,11 +59,64 @@ Na **Grécia Antiga**, os estudiosos dividiam as palavras em dois grupos princip
 
 Posteriormente, perceberam que, a partir dos **nomes (onômas)**, poderiam estabelecer novos agrupamentos de palavras, originando outras classes gramaticais.  Podemos organizar as palavras de forma funcional em quatro grandes grupos didáticos, por exemplo, as classes dos nomes, verbos, conectores e emoções. O grupo dos nomes possuí como núcleo é o substantivo e é composto por: Substantivo, Adjetivo, Artigo, Pronome e Numeral. O grupo dos verbos é composto por: Verbos e Advérbios. O grupo dos conectores é composto por: Conjunção e Preposição. O grupo das emoções é composto apenas por: Interjeição.
 
+O núcleo de uma estrutura morfológica é quem define as flexões para respeitar a concordância nominal. No caso do substantivo tudo que o acompanha deve flexionar juntamente com ele.
+
+> Exemplo:  
+a) "A garota determinada".   
+b) "As garotinhas determinadas".   
+c) "O garoto determinado".   
+d) "Os garotos determinados".   
+e) "A garotinha determinada"   
+
+Cabe ressaltar que o grau não influêcia a análise morfológica.
+
+---
+
+O artigo sempre determina o substantivo, por exemplo, a palavra tênis que apenas saberemos se é singular ou plural a depender do artigo.
+
+O adjetivo podem:  
+
+1. Dar características ao nome
+2. Dá Qualidades ao nome
+3. Dá Estados ao nome
+4. Revelam relações ao nome
+
+---
+
+O pronome que acompanha o nome é chamado de pronome adjetivo e o que substituí o nome é chamado de pronome substantivo.
+
+> Exemplo: "Essa casa é muito linda"
+
+Nesse caso o pronome essa é um pronome demonstrativo adjetivo que determina o substantivo, pois poderia ser substituído pelo artigo "a".
+
+> Exemplo: "Ana chegou atrasada"
+
+Nesse caso podemos substituir pelo pronome substantivo "ela", ficando _"**ela** chegou atrasada"_
+
+No exemplo _"Qualquer fato real"_, temos como substantivo o termo "qualquer" acompanhado pela característica adjetiva "real", portanto por eliminação, pois o termo qualquer não é artigo, nem numeral, nem adjetivo, sobrando ser um Pronome. Como falar de um qualquer fato, têm-se um Pronome Indefinido Adjetivo, pois também acompanha o nome. No plural ficaria como _"Quaisquer fatos reais"_. O termo "quaisquer", é a única palavra que possuí plural interno, pois está no meio da palavra e não grafada por letra "s".
+
+> No exemplo: "As minha sete melhores músicas"
+
+Temos, "as" como artigo, "minha" como pronome, "sete" como numeral, "melhores" como adjetivo e "músicas" como o substantivo. 
+
+> No exemplo: "Os nefastos perigos radioativos"
+
+Temos, "os" como artigo, "nefastos" e "radioativos" como adjetivos e "perigos" como o substantivo. 
+
+---
+
+Os numerais pode sem ser numeral adjetivo que substituí o nome e o numeral substantivo que acompanha o nome.
+
+> Exemplo: 
+
+a) "Dois rapazes chegaram", trata-se de um numeral adjetivo    
+b) "O dois é meu número da sorte", trata-se de um numeral substantivo
+
 ---
 
 # Questões
 
-### Questão XX)
+### Questão)
  _“Um caso emblemático é o da Doença de Chagas, que [...] pode representar novamente um desafio para nosso sistema de saúde em virtude das alterações <u>que estão sendo realizadas nas paisagens</u>.”_ A única reescritura do trecho sublinhado na qual se verifica erro gramatical associado ao uso do pronome relativo é:
 
 a) Um caso emblemático é o da Doença de Chagas, que pode representar novamente um desafio para nosso sistema de saúde em virtude das alterações às quais as paisagens estão sujeitas. 
@@ -81,7 +135,7 @@ e) Um caso emblemático é o da Doença de Chagas, que pode representar novament
 
 ---
 
-### Questão XX) 
+### Questão) 
 Assinale a frase a seguir em que a palavra sublinhada tem a sua classe gramatical corretamente indicada.
 
 a) A maioria dos homens vive uma existência de tranquilo desespero. / advérbio. 
