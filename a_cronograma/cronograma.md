@@ -30,9 +30,9 @@
 
 |Período|Segunda|Terça|Quarta|Quinta|Sexta|Sábado|Domingo|
 |---|---|---|---|----|---|---|---|
-|**Matutino**|LinP|DirC|DirP|DirH|SegI|—|LinP|
-| **Vespertino**|DirC|DirP|DirH|SegI|AtiI|—|DirC|
-| **Noturno**|DirP|DirH|SegI|AtiI|LinP|—|DirP|
+|**Matutino**|LinP|LinP|DirP|DirH|SegI|—|LinP|
+| **Vespertino**|DirC|LinP|DirH|SegI|AtiI|—|DirC|
+| **Noturno**|DirP|LinP|SegI|AtiI|LinP|—|DirP|
 
 ## Diário de Bordo
 
