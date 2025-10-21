@@ -1,10 +1,8 @@
-# EDITAL VERTICALIZADO — POLICIAL LEGISLATIVO FEDERAL (CÂMARA DOS DEPUTADOS)
+# EDITAL VERTICALIZADO — POLICIAL LEGISLATIVO FEDERAL
 
 ---
 
-## BLOCO I – CONHECIMENTOS GERAIS
-
-### LÍNGUA PORTUGUESA, LITERATURA NACIONAL E REDAÇÃO
+### LÍNGUA PORTUGUESA
 1. Gramática normativa: uso da língua culta.  
 2. Fonética e fonologia.  
 3. Morfologia.  
@@ -25,7 +23,7 @@
 
 ---
 
-### RACIOCÍNIO LÓGICO-MATEMÁTICO
+### MATEMÁTICA
 1. Estruturas lógicas: conectivos, tautologias, contradições, implicações, equivalências, quantificadores.  
 2. Lógica de argumentação: analogias, inferências, deduções, conclusões, silogismos.  
 3. Lógica sentencial (proposicional): proposições simples e compostas, tabelas-verdade, diagramas lógicos.  
@@ -97,8 +95,6 @@
 13. **Lei de Introdução às Normas do Direito Brasileiro – Lei nº 4.657/1942.**  
 
 ---
-
-## BLOCO II – CONHECIMENTOS ESPECÍFICOS
 
 ### DIREITO PENAL
 1. Princípios penais e disposições constitucionais aplicáveis.  
@@ -213,7 +209,3 @@
 8. **Primeiros Socorros.**  
 9. **Direção Defensiva e Ofensiva.**  
 10. **Prevenção e Combate a Incêndios (NR-23).**  
-
----
-
-📘 **Sugestão de organização em diretórios (`b_disciplinas`):**
