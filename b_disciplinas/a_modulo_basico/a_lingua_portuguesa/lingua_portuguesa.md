@@ -72,36 +72,86 @@ Cabe ressaltar que o grau não influêcia a análise morfológica.
 
 ---
 
-O artigo sempre determina o substantivo, por exemplo, a palavra tênis que apenas saberemos se é singular ou plural a depender do artigo.
+## O papel do artigo
+O **artigo** sempre determina o **substantivo**, pois indica o gênero (masculino/feminino) e o número (singular/plural).
 
-O adjetivo podem:  
-
-1. Dar características ao nome
-2. Dá Qualidades ao nome
-3. Dá Estados ao nome
-4. Revelam relações ao nome
+> Exemplo:  
+> A palavra *tênis* só revela se é singular ou plural dependendo do artigo:  
+> - **o tênis** (singular)  
+> - **os tênis** (plural)
 
 ---
 
-O pronome que acompanha o nome é chamado de pronome adjetivo e o que substituí o nome é chamado de pronome substantivo.
+## O papel do adjetivo
+Os **adjetivos** qualificam ou caracterizam o substantivo, indicando qualidade, estado ou relação. Eles concordam com o substantivo em gênero e número.
 
-> Exemplo: "Essa casa é muito linda"
+**Os adjetivos podem:**
+1. Dar **características** ao nome  
+2. Dar **qualidades** ao nome  
+3. Indicar **estado** do nome  
+4. Revelar **relação** com outro termo
 
-Nesse caso o pronome essa é um pronome demonstrativo adjetivo que determina o substantivo, pois poderia ser substituído pelo artigo "a".
+---
 
-> Exemplo: "Ana chegou atrasada"
+## O papel do pronome
+O **pronome** pode **acompanhar** ou **substituir** o substantivo:
 
-Nesse caso podemos substituir pelo pronome substantivo "ela", ficando _"**ela** chegou atrasada"_
+- Quando **acompanha** o nome, é chamado de **pronome adjetivo**.  
+- Quando **substitui** o nome, é chamado de **pronome substantivo**.
 
-No exemplo _"Qualquer fato real"_, temos como substantivo o termo "qualquer" acompanhado pela característica adjetiva "real", portanto por eliminação, pois o termo qualquer não é artigo, nem numeral, nem adjetivo, sobrando ser um Pronome. Como falar de um qualquer fato, têm-se um Pronome Indefinido Adjetivo, pois também acompanha o nome. No plural ficaria como _"Quaisquer fatos reais"_. O termo "quaisquer", é a única palavra que possuí plural interno, pois está no meio da palavra e não grafada por letra "s".
+> Exemplo: "Essa casa é muito linda"  
+> O pronome *essa* é um **pronome demonstrativo adjetivo**, pois determina o substantivo e poderia ser substituído pelo artigo "a".
 
-> No exemplo: "As minha sete melhores músicas"
+> Exemplo: "Ana chegou atrasada"  
+> O substantivo *Ana* pode ser substituído pelo pronome substantivo *ela*, ficando:  
+> _"**Ela** chegou atrasada"_
 
-Temos, "as" como artigo, "minha" como pronome, "sete" como numeral, "melhores" como adjetivo e "músicas" como o substantivo. 
+---
 
-> No exemplo: "Os nefastos perigos radioativos"
+## Método da exclusão para identificar pronomes
+Quando uma palavra **não é artigo, numeral, adjetivo ou verbo**, mas acompanha um substantivo, é provavelmente um pronome.
 
-Temos, "os" como artigo, "nefastos" e "radioativos" como adjetivos e "perigos" como o substantivo. 
+> Exemplo: "Qualquer fato real"  
+> - *fato* → substantivo  
+> - *real* → adjetivo  
+> - *qualquer* → **pronome indefinido adjetivo**, pois acompanha o substantivo.  
+> No plural: "Quaisquer fatos reais".  
+> Observação: *quaisquer* apresenta **plural interno**, marcado dentro da palavra.
+
+---
+
+## Exemplos práticos
+
+> "As minhas sete melhores músicas"  
+> - **as** → artigo  
+> - **minhas** → pronome adjetivo  
+> - **sete** → numeral  
+> - **melhores** → adjetivo  
+> - **músicas** → substantivo
+
+> "Os nefastos perigos radioativos"  
+> - **os** → artigo  
+> - **nefastos**, **radioativos** → adjetivos  
+> - **perigos** → substantivo
+
+> "Esses novos desafios governamentais"  
+> - **esses** → pronome demonstrativo adjetivo  
+> - **novos**, **governamentais** → adjetivos  
+> - **desafios** → substantivo
+
+> "Cada vida negra"  
+> - **cada** → pronome indefinido adjetivo  
+> - **vida** → substantivo  
+> - **negra** → adjetivo
+
+> "Muitas crianças órfãs"  
+> - **muitas** → pronome indefinido adjetivo  
+> - **crianças** → substantivo  
+> - **órfãs** → adjetivo
+
+> "As órfãs foram resgatadas"  
+> - **órfãs** → substantivo  
+> Observação: cada palavra deve ser analisada **morfologicamente** conforme o contexto, pois sua classe gramatical pode mudar.
 
 ---
 
