@@ -32,14 +32,14 @@
 |---|---|---|---|----|---|---|---|
 |**Matutino**|LinP|LinP|DirP|DirH|SegI|—|LinP|
 | **Vespertino**|DirC|LinP|DirH|SegI|AtiI|—|DirC|
-| **Noturno**|DirP|LinP|SegI|AtiI|LinP|—|DirP|
+| **Noturno**|DirP|DirP|SegI|AtiI|LinP|—|DirP|
 
 ## Diário de Bordo
 
 |Data|Disciplina|Horas de Estudo|
 |---|---|---|
 |21/10/2025|Língua Portuguesa|03:21:49h|
-|22/10/2025|Direito Penal|00:00:00h|
+|22/10/2025|Direito Penal|01:27:54h|
 
 ## Controle de Progresso (Cliclo I)
 
