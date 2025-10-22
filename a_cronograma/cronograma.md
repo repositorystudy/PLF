@@ -40,6 +40,8 @@
 |---|---|---|
 |21/10/2025|Língua Portuguesa|03:21:49h|
 |21/10/2025|Direito Penal|01:27:54h|
+|22/10/2025|Segurança de Dignitários|02:37:00h|
+|23/10/2025|Segurança da Informação|00:00:00h|
 
 ## Controle de Progresso (Cliclo I)
 
