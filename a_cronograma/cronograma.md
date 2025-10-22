@@ -39,7 +39,7 @@
 |Data|Disciplina|Horas de Estudo|
 |---|---|---|
 |21/10/2025|Língua Portuguesa|03:21:49h|
-|22/10/2025|Direito Penal|01:27:54h|
+|21/10/2025|Direito Penal|01:27:54h|
 
 ## Controle de Progresso (Cliclo I)
 
