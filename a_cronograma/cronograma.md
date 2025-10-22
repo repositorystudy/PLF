@@ -29,10 +29,10 @@
 ## Cronograma Semanal
 
 |Período|Segunda|Terça|Quarta|Quinta|Sexta|Sábado|Domingo|
-|---|---|---|---|----|---|---|---|
-|**Matutino**|LinP|LinP|DirP|DirH|SegI|—|LinP|
-| **Vespertino**|DirC|LinP|DirH|SegI|AtiI|—|DirC|
-| **Noturno**|DirP|DirP|SegI|AtiI|LinP|—|DirP|
+|---------------|----|----|----|----|----|----|----|
+|**Matutino**   |LinP|LinP|DirP|DirH|SegI|————|LinP|
+| **Vespertino**|DirC|LinP|SegI|SegI|AtiI|————|DirC|
+| **Noturno**   |DirP|DirP|SegI|AtiI|LinP|————|DirP|
 
 ## Diário de Bordo
 
